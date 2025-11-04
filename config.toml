@@ -38,7 +38,7 @@ enableGitInfo = false
 [menu]
 [[menu.home]]
   name = 'Material'
-  pageRef = '/docs/example/'
+  pageRef = '/docs/material/'
   weight = 1
 
 [[menu.home]]
@@ -92,7 +92,7 @@ enableGitInfo = false
   # (Optional, default none) Set template for edit page link.
   # When set enabled 'Edit this page' link in the footer of the page.
   # Param is executed as template using .Site, .Page and .Path as context.
-  BookEditLink = '{{ .Site.Params.BookRepo }}/edit/main/exampleSite/{{ .Path }}'
+  BookEditLink = ''
 
   # (Optional, default 'January 2, 2006') Configure the date format used on the pages
   # - In git information

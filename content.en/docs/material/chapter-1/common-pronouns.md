@@ -12,9 +12,9 @@ In Vietnamese daily conversations, an important first step is picking the approp
 
 Therefore, unlike the English "you" and "I", in Vietnamese, a person can have different pronouns, depending on who they're talking to.
 
-{{% hint info %}}
-**Tidbit:** As you age, the pronouns people pick to refer to you will also be different!
-{{% /hint %}}
+> [!NOTE]
+> **Tidbit:**
+> As you age, the pronouns people pick to refer to you will also be different!
 
 ## Common pronouns
 
@@ -31,9 +31,9 @@ This section will present the most commonly-used pronouns.
 | Bà       | Grandma             | Similar to "chị", but for someone who can be your grandma in age                                                                |
 | Con      | Much younger person | Similar to "em": This is the counterpart for "ông", "bà", "cô", "chú"                                                           |
 
-{{% hint warning %}}
-**Tip:** When in doubt, pick the younger pronouns. You want to avoid implying that the other person is too old. This could, in some cases, be unpleasant to the receiver.
-{{% /hint %}}
+> [!TIP]
+> **Tip:** 
+> When in doubt, pick the younger pronouns. You want to avoid implying that the other person is too old. This could, in some cases, be unpleasant to the receiver.
 
 We mentioned before that pronouns can change depend on who you're talking to. Let's look at an example:
 

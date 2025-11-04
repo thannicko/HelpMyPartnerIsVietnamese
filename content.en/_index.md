@@ -8,7 +8,7 @@ layout: landing
 # HELP, MY PARTNER IS VIETNAMESE {anchor=false}
 This is a Southern Vietnamese curriculum for partners who want to speak & understand Vietnamese in their daily life.
 
-{{<button href="/docs/example">}}Start reading{{</button>}}
+{{<button href="/docs/material">}}Start reading{{</button>}}
 
 [{{< badge style="info" title="Hugo" value="0.146" >}}](https://github.com/gohugoio/hugo/releases/tag/v0.146.7)
 [{{< badge style="default" title="License" value="MIT" >}}](https://github.com/alex-shpak/hugo-book/blob/main/LICENSE)

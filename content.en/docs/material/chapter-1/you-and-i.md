@@ -7,10 +7,10 @@ weight: 1
 
 When in doubt, you can always use the literal translation of "You" and "I" in Vietnamese when speaking:
 
-| English  | Vietnamese |
-| -------- | -------    |
-| You      | Bạn        |
-| I        | Tôi        |
+| English  | Vietnamese | Pronunciation                                   |
+| -------- | -------    | -------                                         |
+| You      | Bạn        | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
+| I        | Tôi        | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
 
 These are neutral pronouns, can be applied with anyone, and corresponds 1-to-1 with the English versions in usage & meaning.
 

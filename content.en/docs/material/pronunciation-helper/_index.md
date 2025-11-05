@@ -1,11 +1,13 @@
 ---
 title: "Pronunciation helper"
-weight: 80
+weight: 1
 ---
 
 # Pronunciation helper
 
-This tool is intended for you to be able to assemble different letters and hear their pronunciation in sequence. In doing this, you can deduce what the word is actually pronounced like.
+This tool is intended to help you get an idea how to pronounce any Vietnamese words. How does that work? In Vietnamese, a word's pronunciaton (or a very close approximation thereof) can be created by concatenating the sounds of all its letters. This tool will let you do exactly that.
+
+{{< badge value="Example" >}} Tôi's pronunciation is obtained from "T" and "ôi".
 
 <script type="text/javascript">
     var letters = []

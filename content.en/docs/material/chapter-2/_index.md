@@ -5,7 +5,7 @@ weight: 11
 
 # Chapter 2: Greetings & saying your name
 
-This section contains:
+This chapter contains:
 * [Greetings](#greetings)
 * [Saying your name](#saying-your-name)
 

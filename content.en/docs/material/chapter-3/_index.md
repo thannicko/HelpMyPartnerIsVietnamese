@@ -1,57 +1,59 @@
 ---
-title: "Chapter 3: Past, present & future"
+title: "Chapter 3: Counting"
 weight: 12
 ---
 
-# Chapter 3: Past, present & future
+# Chapter 3: Counting
 
-This section equips you with the grammatical background to construct sentences in the past, present, and future:
-* [The present](#the-present)
-* [The future](#the-future)
-* [The past](#the-past)
+This chapter equips you with the vocabulary to count up to and including 100.
+* [Counting to 10](#counting-to-10)
+* [Counting to 20](#counting-to-20)
+* [Counting to 100](#counting-to-100)
 
-## The present
+## Counting to 10
 
-Before we start, let's understand the formula we're going to use to construct most of our sentences.
+| Number        | Vietnamese        | Audio                                           |
+| --------      | -------           | -------                                         |
+| 1             | một               | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
+| 2             | hai               | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
+| 3             | ba                | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
+| 4             | bốn               | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
+| 5             | năm               | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
+| 6             | sáu               | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
+| 7             | bảy               | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
+| 8             | tám               | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
+| 9             | chín              | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
+| 10            | mười              | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
 
-{{< badge value="Example" >}} Let's look at a few example sentences. Try to identify the common structure in them (do not worry about vocabulary for now).
+## Counting to 20
 
-| English               | Vietnamese            | Audio                                           |
-| --------              | -------               | -------                                         |
-| Tôi ăn bánh mì        | I eat banh mi         | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
-| Em uống cà phê        | I drink coffee        | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
-| Con đi Đà Lạt         | I go to Da Lat        | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
+We're going to prefix '10' and increment the units:
 
-If you've identified it, well done! The common structure is:
+| Number        | Vietnamese    | Audio                                           |
+| --------      | -------       | -------                                         |
+| 11            | mười một      | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
+| 12            | mười hai      | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
+| ...           |               |                                                 |
+| 15            | mười <font color="red">lăm</font> | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
+| ...           |               |                                                 |
+| 20            | hai mươi      |                                                 |
 
-```
-[your pronoun] [verb] [object of verb]
-```
+## Counting to 100
 
-## The future
+Same as before, we're going to prefix the '10's and increment the units:
 
-{{< badge value="Example" >}} Let's do the same exercise as above, try to identify the common structure in the below sentences.
-
-| English                   | Vietnamese                 | Audio                                           |
-| --------                  | -------                    | -------                                         |
-| Tôi sẽ ăn bánh mì         | I will eat banh mi         | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
-| Em sẽ uống cà phê         | I will drink coffee        | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
-| Con sẽ đi Đà Lạt          | I will go to Da Lat        | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
-
-You've probably spotted it by now. Adding "sẽ" in front of the verb will turn the sentence into future tense. No conjugation needed!
-
-{{< badge style="info" value="Vocabulary" >}} "Sẽ" = "will"
-
-## The past
-
-{{< badge value="Example" >}} You know the drill by now, identify the common structure in below sentences.
-
-| English                   | Vietnamese                 | Audio                                           |
-| --------                  | -------                    | -------                                         |
-| Tôi đã ăn bánh mì         | I did eat banh mi          | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
-| Em đã uống cà phê         | I did drink coffee         | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
-| Con đã đi Đà Lạt          | I did go to Da Lat         | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
-
-Same as the future tense, adding "đã" in front of the verb will turn the sentence into past tense. Again, no conjugation needed!
-
-{{< badge style="info" value="Vocabulary" >}} "Đã" = "did"
+| Number        | Vietnamese    | Audio                                           |
+| --------      | -------       | -------                                         |
+| 21            | hai mươi <font color="red">mốt</font> | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
+| 22            | hai mươi hai      | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
+| ...           |               |                                                 |
+| 25            | hai mươi <font color="red">lăm</font> | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
+| ...           |               |                                                 |
+| 30            | ba mươi      |                                                 |
+| 31            | ba mươi <font color="red">mốt</font> | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
+| ...           |               |                                                 |
+| 35            | ba mươi <font color="red">lăm</font> | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
+| ...           |               |                                                 |
+| 40            | bốn mươi      |                                                 |
+| ...           |               |                                                 |
+| 100           | một trăm      |                                                 |

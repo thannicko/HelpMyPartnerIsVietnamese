@@ -17,10 +17,6 @@ This section equips you with vocabulary to begin talking about time:
 
 In Vietnamese, we count the day of the weeks, starting from two (please see [counting](docs/material/chapter-3)):
 
-| Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday   |
-|--------|---------|-----------|----------|--------|----------|----------|
-| Thứ 2  | Thứ 3   | Thứ 4     | Thứ 5    | Thứ 6  | Thứ 7    | Chủ Nhật |
-
 | English               | Vietnamese            | Audio                                           |
 | --------              | -------               | -------                                         |
 | Monday                | Thứ 2                 | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
@@ -33,7 +29,7 @@ In Vietnamese, we count the day of the weeks, starting from two (please see [cou
 
 If you're wondering what the word 'Thứ' means:
 
-{{< badge style="info" value="Vocabulary" >}} "Thứ 2" = "2th" (indicating order)
+{{< badge style="info" value="Vocabulary" >}} "Thứ 2" = "2th" (thứ is "th", indicating order)
 
 ## Months
 
@@ -44,7 +40,7 @@ The 12 months in Vietnamese are basically counting to 12 with a 'month' prefix:
 * ...
 * Tháng 12 (December)
 
-{{< badge style="info" value="Vocabulary" >}} "Tháng" = "month" (indicating order)
+{{< badge style="info" value="Vocabulary" >}} "Tháng" = "month"
 
 ## Dates
 

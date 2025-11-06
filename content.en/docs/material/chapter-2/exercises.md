@@ -18,8 +18,8 @@ You see the auntie selling banh mi on the street: she's saying hello to you.
 
 | Speaker   | Audio                                           |
 |---------- |-------------------------------------------------|
-| Auntie    | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
-| You       | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
+| Auntie    | {{< audio src=chapter2-audio/exercise1-auntie.wav >}} |
+| You       | {{< audio src=chapter2-audio/exercise1-you.wav >}} |
 
 ## Exercise 2
 
@@ -27,8 +27,8 @@ You're an 28 years old man, greeting a 25 years old woman.
 
 | Speaker   | Audio                                           |
 |---------- |-------------------------------------------------|
-| You       | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
-| Woman     | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
+| You       | {{< audio src=chapter2-audio/exercise2-you.wav >}} |
+| Woman     | {{< audio src=chapter2-audio/exercise2-woman.wav >}} |
 
 ## Exercise 3
 
@@ -36,14 +36,14 @@ You're an 28 years old woman, your 5 years old nephew is greeting you.
 
 | Speaker   | Audio                                           |
 |---------- |-------------------------------------------------|
-| Nephew    | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
-| You       | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
+| Nephew    | {{< audio src=chapter2-audio/exercise3-nephew.wav >}} |
+| You       | {{< audio src=chapter2-audio/exercise1-auntie.wav >}} |
 
 ## Exercise 4
 
-You're not married to your partner, and you're greeting your partner's mother-in-law.
+You're married to your partner, and you're greeting your partner's mother-in-law.
 
 | Speaker   | Audio                                           |
 |---------- |-------------------------------------------------|
-| You       | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
-| Mother    | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
+| You    | {{< audio src=chapter2-audio/exercise4-you.wav >}} |
+| Mother       | {{< audio src=chapter2-audio/exercise4-mother.wav >}} |

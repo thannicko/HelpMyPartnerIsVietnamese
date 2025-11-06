@@ -15,7 +15,7 @@ This section deals a lot with pronouns, so if you haven't yet, please read [chap
 
 {{< badge style="info" value="Vocabulary" >}} "Hello" = "Chào"
 
-{{< audio src=chapter1-audio/t-rex-roar.mp3 >}}
+{{< audio src=chapter2-audio/chao.wav >}}
 
 ### Greeting one (1) person
 
@@ -37,6 +37,8 @@ If you're in a room with your partner's family, you don't want to greet everyone
 
 {{< badge style="info" value="Vocabulary" >}} "Mọi người" = "Everyone"
 
+{{< audio src=chapter2-audio/moinguoi.wav >}}
+
 So we've figured out the "everyone" part, but to complete the phrase, we still need to pick the pronoun for ourselves:
 
 * "con", if most of the audience seems like "cô/chú/ông/bà"
@@ -45,8 +47,6 @@ So we've figured out the "everyone" part, but to complete the phrase, we still n
 ```
 ["Con" or "Em"] chào mọi người
 ```
-
-{{< audio src=chapter1-audio/t-rex-roar.mp3 >}}
 
 # Saying your name
 
@@ -57,10 +57,11 @@ To say your name, you can use:
 
 {{< badge style="info" value="Vocabulary" >}} "Tên" = "Name" (do not worry about the grammar aspect for now)
 
+{{< audio src=chapter2-audio/ten.wav >}}
+
 {{< badge value="Example" >}} Continuing our example, you will now introduce your name to the older guy you've met.
 
 ```
 You: Em tên Bob     <- Notice how we use "em" here as that's the counterpart for "anh"
 Him: Anh tên Frits  <- And he uses the pronoun for "older brother" to refer to himself"
 ```
-{{< audio src=chapter1-audio/t-rex-roar.mp3 >}}

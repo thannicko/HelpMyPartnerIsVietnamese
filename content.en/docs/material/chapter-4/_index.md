@@ -1,26 +1,24 @@
 ---
-title: "Chapter 4: Past, present & future"
+title: "Chapter 4: The present"
 weight: 13
 ---
 
-# Chapter 4: Past, present & future
+# Chapter 4: The present
 
-This chapter equips you with the grammatical background to construct sentences in the past, present, and future:
+This chapter equips you with the grammatical background to construct sentences in the present, together with some common verbs to begin talking:
 * [The present](#the-present)
-* [The future](#the-future)
-* [The past](#the-past)
 
 ## The present
 
 Before we start, let's understand the formula we're going to use to construct most of our sentences.
 
-{{< badge value="Example" >}} Let's look at a few example sentences. Try to identify the common structure in them (do not worry about vocabulary for now).
+{{< badge value="Example" >}} Let's look at a few example sentences. Try to identify the common structure in them.
 
-| English               | Vietnamese            | Audio                                           |
-| --------              | -------               | -------                                         |
-| Tôi ăn bánh mì        | I eat banh mi         | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
-| Em uống cà phê        | I drink coffee        | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
-| Con đi Đà Lạt         | I go to Da Lat        | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
+| English                                                                          | Vietnamese            | Audio                                           |
+| --------                                                                         | -------               | -------                                         |
+| Tôi ăn {{< tooltip title="bánh mì" >}}Vietnamese baguette{{< /tooltip >}}        | I eat banh mi         | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
+| Em uống {{< tooltip title="cà phê" >}}Vietnamese coffee{{< /tooltip >}}          | I drink coffee        | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
+| Con đi {{< tooltip title="Đà Lạt" >}}A tourist city{{< /tooltip >}}              | I go to Da Lat        | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
 
 If you've identified it, well done! The common structure is:
 
@@ -28,30 +26,16 @@ If you've identified it, well done! The common structure is:
 [your pronoun] [verb] [object of verb]
 ```
 
-## The future
+Now, look at the examples again and see if you can identify the verb for "eat", "drink", and "go".
 
-{{< badge value="Example" >}} Let's do the same exercise as above, try to identify the common structure in the below sentences.
+> [!NOTE]
+> **Review:**
+> We've used "tôi", "em", and "con" in the examples. They're all variations of "I". Can you recall what the differences are between these and when we use them?
 
-| English                   | Vietnamese                 | Audio                                           |
-| --------                  | -------                    | -------                                         |
-| Tôi sẽ ăn bánh mì         | I will eat banh mi         | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
-| Em sẽ uống cà phê         | I will drink coffee        | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
-| Con sẽ đi Đà Lạt          | I will go to Da Lat        | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
+## Verbs
 
-You've probably spotted it by now. Adding "sẽ" in front of the verb will turn the sentence into future tense. No conjugation needed!
-
-{{< badge style="info" value="Vocabulary" >}} "Sẽ" = "will"
-
-## The past
-
-{{< badge value="Example" >}} You know the drill by now, identify the common structure in below sentences.
-
-| English                   | Vietnamese                 | Audio                                           |
-| --------                  | -------                    | -------                                         |
-| Tôi đã ăn bánh mì         | I did eat banh mi          | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
-| Em đã uống cà phê         | I did drink coffee         | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
-| Con đã đi Đà Lạt          | I did go to Da Lat         | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
-
-Same as the future tense, adding "đã" in front of the verb will turn the sentence into past tense. Again, no conjugation needed!
-
-{{< badge style="info" value="Vocabulary" >}} "Đã" = "did"
+| English   | Vietnamese
+| --------  | ------- 
+| Ăn        | Eat
+| Uống      | Drink
+| Đi        | Go

@@ -11,7 +11,6 @@ This section contains:
 * [Common pronouns](#common-pronouns)
 * [What about my partner's parents?](#what-about-my-partners-parents)
 * [How to select a pronoun?](#how-to-select-a-pronoun)
-* [Pronunciations](#pronunciations)
 
 ## Cultural background
 
@@ -25,7 +24,23 @@ Therefore, unlike the English "you" and "I", in Vietnamese, a person can have di
 
 ## Common pronouns
 
-This section will present the most commonly-used pronouns. For pronunciations, see [pronunciations](#pronunciations)
+This section will present the most commonly-used pronouns. First repeat after the audio and get used to their sounds.
+
+| Word     | Audio                                           | 
+|----------|-------------------------------------------------|
+| Anh      | {{< audio src=chapter1-audio/anh.wav >}} |
+| Chị      | {{< audio src=chapter1-audio/chi.wav >}} |
+| Em       | {{< audio src=chapter1-audio/em.wav >}} |
+| Chú      | {{< audio src=chapter1-audio/chu.wav >}} |
+| Cô       | {{< audio src=chapter1-audio/co.wav >}} |
+| Ông      | {{< audio src=chapter1-audio/ong.wav >}} |
+| Bà       | {{< audio src=chapter1-audio/ba-oma.wav >}} |
+| Con      | {{< audio src=chapter1-audio/con2.wav >}} |
+| Ba       | {{< audio src=chapter1-audio/ba-dad.wav >}} |
+| Mẹ       | {{< audio src=chapter1-audio/me.wav >}} |
+
+
+Now let's find about their meanings.
 
 | Pronouns | Literal translation | Usage                                                                                                                           | 
 |----------|---------------------|---------------------------------------------------------------------------------------------------------------------------------|
@@ -72,18 +87,3 @@ A[You see a person on the street]
     E -->|Yes| F['Cô/Chú' for them, 'Con' for you]
     E -->|No| G['Anh/Chị' for them, 'Em' for you]
 ```
-
-## Pronunciations
-
-| Word     | Audio                                           | 
-|----------|-------------------------------------------------|
-| Anh      | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
-| Chị      | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
-| Em       | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
-| Chú      | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
-| Cô       | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
-| Ông      | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
-| Bà       | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
-| Con      | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
-| Ba       | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |
-| Mẹ       | {{< audio src=chapter1-audio/t-rex-roar.mp3 >}} |

@@ -36,7 +36,7 @@ You're an 28 years old woman, your 5 years old nephew is greeting you.
 
 | Speaker   | Audio                                           |
 |---------- |-------------------------------------------------|
-| Nephew    | {{< audio src=chapter2-audio/exercise3-nephew.wav >}} |
+| Nephew    | {{< audio src=chapter2-audio/exercise1-you.wav >}} |
 | You       | {{< audio src=chapter2-audio/exercise1-auntie.wav >}} |
 
 ## Exercise 4
